@@ -1,12 +1,15 @@
 # lab-00
 
-LAB - Class 00
-Project: Proof of life server
-Author: Sondos Alayyan
+## LAB - Class 00
+- Project: Proof of life server
+- Author: Sondos Alayyan
+
 ## Links and Resources
-[submission PR](https://github.com/sondos-401-advanced-javascript/lab-00/pull/1)
-[travis](https://travis-ci.com/github/sondos-401-advanced-javascript/lab-00)
-[front-end application](https://sondos-lab-00.herokuapp.com/)
+- [submission PR](https://github.com/sondos-401-advanced-javascript/lab-00/pull/1)
+
+- [travis](https://travis-ci.com/github/sondos-401-advanced-javascript/lab-00)
+
+- [front-end application](https://sondos-lab-00.herokuapp.com/)
 
 ## Documentation
 [jsdoc](https://sondos-lab-00.herokuapp.com/docs/)
